@@ -35,8 +35,6 @@ The data model follows a **star schema architecture**, optimized for performance
   - `dim_date`: temporal dimension (year, quarter, month, week…)
   - `dim_budgetallocation data`
   - `dim_leadgeneration data`
- 
-  ![Data Model Overview](C:/Users/S.Diallo/Downloads/Datamodel.png)
 
 
 ### ✅ Benefits
