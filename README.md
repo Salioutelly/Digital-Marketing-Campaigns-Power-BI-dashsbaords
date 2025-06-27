@@ -34,7 +34,7 @@ The data model follows a **star schema architecture**, optimized for performance
 - **Dimension Tables:**
   - `dim_date`: temporal dimension (year, quarter, month, week…)
   - `dim_budgetallocation data`
-  - `dim_leadgeneration data'
+  - `dim_leadgeneration data`
 
 ### ✅ Benefits
 
